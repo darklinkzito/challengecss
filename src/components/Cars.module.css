@@ -1,0 +1,11 @@
+h2{
+    color: aquamarine;
+    margin-bottom: -15px;
+}
+li {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    color: rgb(10, 85, 119);
+    margin-left: -40px;
+}
